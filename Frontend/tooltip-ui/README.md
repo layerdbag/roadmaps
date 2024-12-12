@@ -1,6 +1,6 @@
-[project page URL](https://roadmap.sh/projects/tooltip-ui)
+# A tooltip
 
-# A tooltip for navigation items
+A tooltip for navigation items
 
 Creating a tooltip for navigation items while making use of only HTML and CSS
 
