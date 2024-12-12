@@ -11,9 +11,9 @@
 ## Frontend
 ---
 
-<details> 
-- [Tooltip UI](https://roadmap.sh/projects/tooltip-ui)
 
-</details>
+- [ ] [Tooltip UI](https://roadmap.sh/projects/tooltip-ui)
+
+
 
 
