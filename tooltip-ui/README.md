@@ -1,3 +1,5 @@
+[project page URL](https://roadmap.sh/projects/tooltip-ui)
+
 # A tooltip for navigation items
 
 Creating a tooltip for navigation items while making use of only HTML and CSS
@@ -11,4 +13,4 @@ It was great using CSS positioning and setting `{ position: relative; }` propert
 - You need to copy the project folder to any text editor
 - You can then double click on the `index.html` file or use a liveserver extension in your favourite text editor to run it.
 
-[project page URL](https://roadmap.sh/projects/tooltip-ui)
+
