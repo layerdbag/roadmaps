@@ -11,24 +11,4 @@ It was great using CSS positioning and setting `{ position: relative; }` propert
 - You need to copy the project folder to any text editor
 - You can then double click on the `index.html` file or use a liveserver extension in your favourite text editor to run it.
 
-
-
-
-https://roadmap.sh/projects/tooltip-ui
-
-
-Start Building
-Follow these steps to complete the project.
-
-1. Create a new public repository on GitHub.
-
-2. Complete the project according to the requirements and push your code to the GitHub repository.
-
-3. Add a README file with instructions to run the project and the project page URL
-
-4. Once done, submit your solution to help the others learn and get feedback from the community.
-
-
-Bonus points for different animations for the tooltip, such as fade-in, slide-in, or scale-in effects.
-
-After completing this project, you will have a better understanding of CSS positioning, hover effects, and creating interactive UI elements without JavaScript.
+[project page URL](https://roadmap.sh/projects/tooltip-ui)
