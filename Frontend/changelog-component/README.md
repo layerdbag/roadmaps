@@ -1,9 +1,9 @@
 # An Assessible Responsive Changelog Component
 
-#HTML
-#Layouts
-#CSS
-#Grid
+`HTML`
+`Layouts`
+`CSS`
+`Grid`
 
 
 A changelog component for a website using HTML and CSS
