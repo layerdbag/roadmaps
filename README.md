@@ -12,6 +12,7 @@
 
 
 - [x] [Tooltip UI](https://roadmap.sh/projects/tooltip-ui)
+- [x] [Changelog Component](https://roadmap.sh/projects/changelog-component)
 
 
 

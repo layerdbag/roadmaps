@@ -1,9 +1,9 @@
 # An Assessible Responsive Changelog Component
 
-<span style='background-color:rgb(204, 232, 214); padding: 2px 6px; border-radius: 4px;'>HTML</span>
-<span style='background-color:rgb(204, 232, 214); padding: 2px 6px; border-radius: 4px;'>Layouts</span>
-<span style='background-color:rgb(204, 232, 214); padding: 2px 6px; border-radius: 4px;'>CSS</span>
-<span style='background-color:rgb(204, 232, 214); padding: 2px 6px; border-radius: 4px;'>Grid</span>
+#HTML
+#Layouts
+#CSS
+#Grid
 
 
 A changelog component for a website using HTML and CSS
